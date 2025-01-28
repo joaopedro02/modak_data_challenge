@@ -18,4 +18,4 @@
 - select the local enviroment located at `.venv` as the kernel of the notebook.
 
 
-The report with the response of the challenge is in the [notebook](project_code/report.ipynb) togheter with the code used. There is also a .pdf copy of the notebook here with the results. 
+The report with the response of the challenge is in the [notebook](project_code/report.ipynb) togheter with the code used. There is also a [.html copy of the notebook](project_code/report.html) with the results. 
